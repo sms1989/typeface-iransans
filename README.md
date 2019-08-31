@@ -6,6 +6,7 @@ The CSS and web font files to easily self-host “IRANSans”.
 ## Install
 
 `npm install --save typeface-iransans`
+
 `yarn add typeface-iransans`
 
 ## Use
