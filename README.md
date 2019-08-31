@@ -1,5 +1,5 @@
 
-# typeface-iranyekan
+# typeface-iransans
 
 The CSS and web font files to easily self-host “IRANSans”.
 
