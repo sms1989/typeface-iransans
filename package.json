@@ -1,0 +1,16 @@
+{
+  "name": "typeface-iranyekan",
+  "version": "0.0.11",
+  "description": "iransans iranyekan",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "iranyekan fonts",
+    "iran Yekan"
+  ],
+  "author": "Mohammad shobeiri <mohammad.shobeiri@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/sms1989/typeface-iranyekan"
+}
